@@ -113,9 +113,8 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 📈 **My GitHub Stats(2023):**
 
 <p>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figaro27&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figaro27&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=hack,postscript" />
-    <img align="right" alt="GIF" src="https://github.com/ClusterH/ClusterH/blob/master/dev.gif?raw=true" width="400" height="200" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky-bruce&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=hack,postscript" />
 </p>
 
 
