@@ -1,12 +1,6 @@
 # Bruce Jin
 Frontend Developer | Angular, React, Vue.js
 
-<p align="center">
-  
-  ![farzad-p-xSl33Wxyc-unsplash]([https://user-images.githubusercontent.com/110060055/236896389-bcf54096-7295-4000-a023-56fa5529c6d2.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fweb-developer.html&psig=AOvVaw0uMiqSKPnHwdTneHFPTW54&ust=1684071252952000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIig4Ma08v4CFQAAAAAdAAAAABAI))
-
-</p>
-
 Hi, I'm Bruce! I'm a Frontend Developer with experience in Angular, React, and Vue.js. I specialize in creating modern web applications that are both user-friendly and visually appealing. 
 
 I have a passion for developing clean, efficient code and strive to stay up-to-date on the latest technologies and trends. I'm always looking for ways to improve my skills and expand my knowledge.
