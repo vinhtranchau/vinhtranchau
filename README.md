@@ -118,15 +118,23 @@ If you're looking for a reliable and experienced frontend developer, feel free t
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=hack,postscript" />
 </p>
 
+[![lucky-bruce's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucky-bruce&theme=github-compact)](https://github.com/lucky-bruce/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![lucky-bruce's github stats](https://github-readme-stats.vercel.app/api?username=lucky-bruce&show_icons=true&theme=radical&include_all_commits=true) | ![Bruce's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-
-<!-- - 🔭 I’m currently working on ChatGPT Projects
+- 🔭 I’m currently working on ChatGPT Projects
 - 🤔 I’m looking for help with OpenAI apis
 - 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and ChatGPT development
 - 😄 Pronouns: Web Development Enthusiast Guy
- -->
 
 ![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
 
