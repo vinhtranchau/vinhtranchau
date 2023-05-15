@@ -120,6 +120,8 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucky-bruce" width="auto"></img>
 
 - 🔭 I’m currently working on ChatGPT Projects
 - 🤔 I’m looking for help with OpenAI apis
