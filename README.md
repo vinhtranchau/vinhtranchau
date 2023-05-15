@@ -1,5 +1,5 @@
 # Bruce
-Frontend Developer | Angular, React, Vue.js
+Full Stack Developer (Focusing on Frontend) | Angular, React, Vue.js
 
 ![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
 
