@@ -1,8 +1,6 @@
 # Bruce
 Full Stack Developer (Focusing on Frontend) | Angular, React, Vue.js
 
-![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
-
 
 Hi, I'm Bruce! I'm a Frontend Developer with experience in Angular, React, and Vue.js. I specialize in creating modern web applications that are both user-friendly and visually appealing. 
 
@@ -123,12 +121,14 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 
 
 
-<!-- - 🔭 I’m currently working on Blockchain Projects
-- 🤔 I’m looking for help with building NFT, DeFi, DEX Platform
+<!-- - 🔭 I’m currently working on ChatGPT Projects
+- 🤔 I’m looking for help with OpenAI apis
 - 🚀 Availability: Full-Time Supporting 40hrs/week
-- 💬 Ask me about Web and Blockchain development
-- 😄 Pronouns: Blockchain Enthusiast Guy
+- 💬 Ask me about Web and ChatGPT development
+- 😄 Pronouns: Web Development Enthusiast Guy
  -->
+
+![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
 
 ## Contact
 Email: jalicorich@gmail.com
