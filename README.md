@@ -114,7 +114,7 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 📈 **My GitHub Stats(2023):**
 
 [![lucky-bruce's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucky-bruce&theme=github-compact)](https://github.com/lucky-bruce/github-readme-activity-graph)
-
+|                                                                                                                                         |                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![lucky-bruce's github stats](https://github-readme-stats.vercel.app/api?username=lucky-bruce&show_icons=true&theme=radical&include_all_commits=true) | ![Bruce's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&theme=radical&layout=compact) |
 
