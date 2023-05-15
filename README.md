@@ -111,17 +111,19 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 📈 **My GitHub Stats(2023):**
 
 [![lucky-bruce's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucky-bruce&theme=github-compact)](https://github.com/lucky-bruce/github-readme-activity-graph)
-|                                                                                                                                         |                                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![lucky-bruce's github stats](https://github-readme-stats.vercel.app/api?username=lucky-bruce&show_icons=true&theme=radical&include_all_commits=true) | ![Bruce's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&theme=radical&layout=compact) |
+
+<div>
+  <a href="https://github.com/eagrundy">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucky-bruce" width="auto"></img>
+![Snake animation](https://github.com/lucky-bruce/lucky-bruce/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ChatGPT Projects
 - 🤔 I’m looking for help with OpenAI apis
