@@ -116,6 +116,9 @@ If you're looking for a reliable and experienced frontend developer, feel free t
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+<h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=lucky-bruce&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img>
 
 <!--   profile-green-animate -->
