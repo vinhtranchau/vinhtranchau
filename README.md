@@ -115,7 +115,7 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 <h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=lucky-bruce&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img> -->
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
