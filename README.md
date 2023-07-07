@@ -1,4 +1,3 @@
-# Bruce
 Full Stack Developer (Focusing on Frontend) | Angular, React, Vue.js
 
 Hi, I'm Bruce! I'm a Frontend Developer with experience in Angular, React, and Vue.js. I specialize in creating modern web applications that are both user-friendly and visually appealing. 
