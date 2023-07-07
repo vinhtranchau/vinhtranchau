@@ -132,7 +132,3 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 - 😄 Pronouns: Web Development Enthusiast Guy
 
 ![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
-
-## Contact
-<a href="https://www.linkedin.com/in/bruce-jin-8541b5271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto: jalicorich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
