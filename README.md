@@ -108,8 +108,8 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 
 📈 **My GitHub Stats(2023):**
 <div>
-    <img align="center" height="170" width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" height="170" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" height="170" width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
