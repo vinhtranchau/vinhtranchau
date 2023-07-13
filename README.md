@@ -107,19 +107,19 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 </table> -->
 
 <div>
-    <img align="center" height="170" width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" height="170" width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-bruce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinhtranchau&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" height="170" width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinhtranchau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <h2 align="center"><img src="https://media.giphy.com/media/BDiAZ0eA8oGn22AeAd/giphy.gif" width="48" /> GitHub Trophies</h2>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=lucky-bruce&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=vinhtranchau&theme=radical&no-frame=true&no-bg=false&margin-w=8" /> </div>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-bruce"></img> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhtranchau"></img> -->
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![Snake animation](https://github.com/lucky-bruce/lucky-bruce/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vinhtranchau/vinhtranchau/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ChatGPT Projects
 - 🤔 I’m looking for help with OpenAI apis
@@ -127,4 +127,4 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 - 💬 Ask me about Web and ChatGPT development
 - 😄 Pronouns: Web Development Enthusiast Guy
 
-![GettyImages-1456695258](https://github.com/lucky-bruce/lucky-bruce/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
+![GettyImages-1456695258](https://github.com/vinhtranchau/vinhtranchau/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
