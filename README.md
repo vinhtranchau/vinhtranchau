@@ -1,5 +1,3 @@
-Full Stack Developer
-
 I'm a Full Stack Developer with experience in Angular, React, Vue.js, PHP and Node.js I specialize in creating modern web applications that are both user-friendly and visually appealing. 
 
 I have a passion for developing clean, efficient code and strive to stay up-to-date on the latest technologies and trends. I'm always looking for ways to improve my skills and expand my knowledge.
