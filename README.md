@@ -120,11 +120,3 @@ If you're looking for a reliable and experienced frontend developer, feel free t
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![Snake animation](https://github.com/vinhtranchau/vinhtranchau/blob/output/github-contribution-grid-snake.svg)
-
-- 🔭 I’m currently working on ChatGPT Projects
-- 🤔 I’m looking for help with OpenAI apis
-- 🚀 Availability: Full-Time Supporting 40hrs/week
-- 💬 Ask me about Web and ChatGPT development
-- 😄 Pronouns: Web Development Enthusiast Guy
-
-![GettyImages-1456695258](https://github.com/vinhtranchau/vinhtranchau/assets/90888370/bfb0e359-013a-419f-8b6b-7de276487e98)
