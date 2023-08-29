@@ -2,7 +2,7 @@ I'm a Full Stack Developer with experience in Angular, React, Vue.js, PHP and No
 
 I have a passion for developing clean, efficient code and strive to stay up-to-date on the latest technologies and trends. I'm always looking for ways to improve my skills and expand my knowledge.
 
-If you're looking for a reliable and experienced frontend developer, feel free to reach out!
+If you're looking for a reliable and experienced full stack developer, feel free to reach out!
 
 ## Skills
 <table>
